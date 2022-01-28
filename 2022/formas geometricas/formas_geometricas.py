@@ -1,6 +1,10 @@
 # testa as funções dos arquivos poligonos.py e volume_de_poligonos.py
 import poligonos
 import volume_de_poligonos
+
+import poligonoss
+import volume_de_poligonos
+
 if __name__ == '__main__':
     lado1 = 10
     lado2 = 20
